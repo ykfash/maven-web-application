@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Project24- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/myuniversityofportsmoutlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
