@@ -14,7 +14,6 @@
 We are integrating Maven, Git, Nexus, Tomcat, SonarQube to achieve this profession feature that will serve FINTECHS across the nations of the World.
 We offer continuous Integration and Continuous Deployment (CI/CD) as well as continuous monitoring of developed software for our clients.
         Project24 started on February 01, 2024.
-.
 </h1>
 <hr>
 <br>
