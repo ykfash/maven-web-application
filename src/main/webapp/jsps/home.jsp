@@ -9,13 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to GTBank Web application Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising billionaires IT professionals accross the nations of the World.
-	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        Landmark Technologies, the Pride of Africa.
-	Class36 DevOps MasterClass will start on April 13, 2024.
-        Please invite all your contacts and friends for this life changing course.
+<h1 align="center">Welcome to Project24 Web application Project.</h1>
+<h1 align="center"We are developing an Automated Deployment Pipeline to supporting quality Software Solutions and development to millions of clients globally.
+We are integrating Maven, Git, Nexus, Tomcat, SonarQube to achieve this profession feature that will serve FINTECHS across the nations of the World.
+We offer continuous Integration and Continuous Deployment (CI/CD) as well as continuous monitoring of developed software for our clients.
+        Project24 started on February 01, 2024.
+.
 </h1>
 <hr>
 <br>
