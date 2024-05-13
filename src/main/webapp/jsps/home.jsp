@@ -41,7 +41,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+44740 720 7051,
 		up2180492@myport.ac.uk
 		<br>
-		<a href="mailto:mup2180492@myport.ac.uk">Mail to Project24</a>
+		<a href="mailto:up2180492@myport.ac.uk">Mail to Project24</a>
 	</span>
 </div>
 <hr>
@@ -49,7 +49,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Project24 - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2024 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2024 by <a href="http://mylandmarktech.com/">Project24</a> </small></p>
 
 </body>
 </html>
